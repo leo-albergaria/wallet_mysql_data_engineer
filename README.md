@@ -1,9 +1,6 @@
-
-
-
-<img src="imagem" align="left" height="150px" width="150px">
-<h1>  🎲 Título </h1>
-<p> Um Breve relato </p>
+<img src="https://user-images.githubusercontent.com/63436406/156463879-f0ef0e11-02e7-4a3b-be56-aa8452b737ec.png" align="left" height="150px" width="250px">
+<h1>  🎲 Como modelar um banco de controle de séries assistidas </h1>
+<p> Aprenda como preparar um modelo do seu primeiro banco de dados com base em um problema real e o que deve ser levado em consideração na hora da sua construção.</p>
 <br>
 
 ---
