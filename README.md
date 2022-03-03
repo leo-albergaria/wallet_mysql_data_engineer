@@ -3,7 +3,14 @@
 <p> Aprenda como preparar um modelo do seu primeiro banco de dados com base em um problema real e o que deve ser levado em consideração na hora da sua construção.</p>
 <br>
 
+# Instruções de uso
+
+-   Instalar componentes do backend e frontend (npm i)
+-   Backend na porta 5000
+-   Frontend na porta 3000
+
 ---
+
 <p align="right">
 # Hello <img src="https://acegif.com/wp-content/gifs/ola-47.gif" width="29px">
 # Um pouco sobre mim #
